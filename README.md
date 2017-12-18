@@ -1,6 +1,9 @@
 # badstarwarsquotegenerator
 inaccurate and inappropriate star wars quote generator
 
+star wars content from the star wars api (https://swapi.co/)
+everything else from fuck off as a service (http://foaas.com/)
+
 sample output:
 
 Golf foxtrot yankee, R4-P17.
