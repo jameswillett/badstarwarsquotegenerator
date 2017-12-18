@@ -2,6 +2,7 @@
 inaccurate and inappropriate star wars quote generator
 
 star wars content from the star wars api (https://swapi.co/)
+chuck norris content from the chuck norris api (https://api.chucknorris.io/)
 everything else from fuck off as a service (http://foaas.com/)
 
 sample output:
