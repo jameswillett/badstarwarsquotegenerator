@@ -35,7 +35,7 @@ const main = async () => {
       axios.get('https://api.chucknorris.io/jokes/random')
     ])
     console.log(`\n${secondRes.data.message}\n\t${secondRes.data.subtitle}\n`)
-    console.log(`${chuck.data.value.replace(/chuck\ norris/ig, person3.data.name)}\nato`)
+    console.log(`${chuck.data.value.replace(/chuck\ norris/ig, person3.data.name)}\n`)
   } catch (err) {
     return main()
   }
